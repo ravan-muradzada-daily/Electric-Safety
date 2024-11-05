@@ -1,6 +1,6 @@
 Dependence of the human resistance on the parameters of the circuit.
 
--The circuit parameters are important. Where electrods locates in the human body, the current and voltage of the body, the frequency and current type, duration affect.
+-The circuit parameters are important. Where electrods locates in the human body, the current and voltage power, the frequency and current type, duration affect.
 
 -The skin's resistance varies across different parts of the body. This is because of differences in the thickness of the outer skin layer, the distribution of sweat glands, and how full the blood vessels are in each area. Areas like the face, neck, and palms have the lowest skin resistance.
 (The stratum corneum is the outermost layer of the skin).
