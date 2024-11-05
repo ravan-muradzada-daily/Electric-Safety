@@ -1,0 +1,9 @@
+Dependence of the human body resistance on the skin condition.
+
+-If there is a damage in the out layer of the skin, the resistance of the body can reduce to the value of the internal resistance.
+
+-If the sking is moisture, the resistance will decrease. So we should not work with wet hands.
+
+-Sweat is made up of water, minerals, and other substances from the body. When working in hot conditions or similar environments, the risk of electric shock increases because sweat can conduct electricity more easily.
+
+-Dirty skin has low resistance. Especially if there is metal or coal dust.

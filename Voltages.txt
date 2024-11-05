@@ -1,0 +1,7 @@
+High voltage: > 6300
+
+Medium voltage: 380 - 6300
+
+Low voltage: 110 - 380
+
+Extra low voltage: 50 (48)

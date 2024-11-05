@@ -1,0 +1,11 @@
+Electiral shock and its grades.
+
+Electiral shock - If electric current passes a human body, some physiological effects can happen, so it is very harmful for important organs and systems. Affects can be changed according to its nature:
+
+I grade -> The person does not lose consciousness, some systemic disorders can happen.
+
+II grade -> The person lose consciousness, but heart and breathing does not stop.
+
+III grade -> The person lose consciousness, there is some problems in breathing and heart.
+
+IV grade -> Heart stops working, breathing stops. It cause clinical death.

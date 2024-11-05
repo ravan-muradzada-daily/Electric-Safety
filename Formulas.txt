@@ -1,0 +1,48 @@
+Z = sqrt(R^2 + (XL - Xc)^2)
+
+Xc = 1 / (2* pi * f * C)
+
+XL = 2 * pi * f * L
+
+Zh = Rh / (sqrt(1 + w^2 * Ch^2 * Rh^2))
+
+w = 2 * pi * frequency
+
+
+Here,
+
+XL -> inductive reactance
+
+Xc -> capacitive reactance
+
+f -> frequency
+
+C -> capacitance
+
+L -> inductance
+
+Zh -> impedance
+
+w -> angular frequency
+
+
+---------------------------------------------
+
+
+P = U*I
+E = U*I*t (t-time)
+
+---------------------------------------------
+
+n = V2 / V1 = W1 / W2 = I2 / I1
+
+---------------------------------------------
+
+For series:
+
+R = R1 + R2 + ... + Rn 
+
+
+For parallel:
+
+1/R = 1/R1 + 1/R2 + ... + 1/Rn

@@ -1,0 +1,13 @@
+Size of electrical current through the human body I(h)
+
+0 - 10  -> Small tingling happens in this stage.
+
+10 - 50 -> In muscles, some pains start and we cannot seperate our hands from conductor.
+
+50 - 80 -> In the chest, the pains start and pains are increasing. 
+
+80 - 100 -> The paralysis happens in respiratoy center. Fibrillation of the heart is 2 - 3.
+
+300 -> Fibrillation of the heart is 1.
+
+> 3000 -> Fibrillation does not occur. Body tissues are ruined.

@@ -1,0 +1,10 @@
+1) The equipment has insulation and relies on earth for protection.
+
+2) There is higher risk, becausee earth connection can be lost.
+
+3) It is known as earthed equipment.
+
+4) Examples: kettles, refrigerators, microwaves, toasters.
+
+5) Class 1 equipment always need full PAT test.
+
