@@ -4,7 +4,7 @@
 2) For systems over 1000V, operators must wear dielectric gloves, use protective glasses, and stand on a dielectric rug. Measurements require a second technician's presence. Operators use both hands and pliers with insulation of at least 0.38m and handles of at least 0.13m.
 
 
-3) When a high-voltage conductor is near a hook (~1cm), a small current (~1µA) can light a neon lamp, so dielectric gloves are needed. Shielding suits protect workers from electromagnetic fields near high-voltage systems (≥330kV). These suits are used for repairs or construction within 30m of energized parts, working on the principle of electrostatic shielding.
+3) When a high-voltage conductor is near a hook (~1cm), a small current (~1µA) can light a neon lamp, so dielectric gloves are needed. Shielding suits protect workers from electromagnetic fields near high-voltage systems (≥330kV). These fields are used for repairs or construction within 30m of energized parts, working on the principle of electrostatic shielding.
 
 
 4) Shielding costume is dressed on the top of underwear. If necessary, on the protecting costume can be put a coat, warmer dress, etc. To calculate the protective ability of the costume is used the equation:
