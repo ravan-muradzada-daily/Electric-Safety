@@ -1,0 +1,43 @@
+1) Collective protection uses devices to show if voltage is present. Some give sound signals when they detect voltage. Unipolar pointers show if there is voltage between a part and the ground.
+
+
+2) For systems over 1000V, operators must wear dielectric gloves, use protective glasses, and stand on a dielectric rug. Measurements require a second technician's presence. Operators use both hands and pliers with insulation of at least 0.38m and handles of at least 0.13m.
+
+
+3) When a high-voltage conductor is near a hook (~1cm), a small current (~1µA) can light a neon lamp, so dielectric gloves are needed. Shielding suits protect workers from electromagnetic fields near high-voltage systems (≥330kV). These suits are used for repairs or construction within 30m of energized parts, working on the principle of electrostatic shielding.
+
+
+4) Shielding costume is dressed on the top of underwear. If necessary, on the protecting costume can be put a coat, warmer dress, etc. To calculate the protective ability of the costume is used the equation:
+
+I(h) = I(e) * (1 - k(e))
+
+I(h) - Current flowing through the human body.
+I(e) - Total external current.
+k(e) - Coefficient representing how much of the current avoids the human body (e.g., through alternative paths like grounding).
+
+5) Portable earthing devices are used to protect the technical staff at work with switched-off conductive parts of electrical equipment.
+To avoid electric shock, the three phases of the system is shorted to ground and to the transferring grounding.
+
+6) In electrical installations over 1000V, devices based on capacitive current flow are used. These devices have three main parts:
+
+Hook; Neon lamp; Capacitor (in a plastic case).
+They also include a sealed unit (length varies by voltage), a handle, and a stop for safe use.
+
+
+7) When a conductive body enters an electrostatic field, charges separate due to electrostatic induction. The electric field inside the body becomes zero because the external field is canceled by charges on the surface. To protect the body from the electric field, it can be placed in a metal shell, which acts as a shield.
+
+
+8) A shielding screen can be solid or mesh. Shielding costumes are made from fabric with thin copper wires forming a net or fabric coated with conductive metal paint.
+
+
+
+
+
+
+
+
+
+
+
+
+

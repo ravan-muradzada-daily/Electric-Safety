@@ -1,0 +1,18 @@
+Class 1:
+
+1) The equipmend has basic insulation and relies on earth for protection.
+2) It is a higher risk, as the earth connection could be lost which would make the equipment live.
+3) It is known as earthed equipment.
+4) Examples: kettles, refrigerators, microwaves and toasters.
+5) Test types: Megger, Multimeter
+6) Minim test results: earth 0.1 pi and insulator 1M ohm
+
+Class 2:
+
+1) It is safer than Class 1, it does not need earth for protection.
+2) It is protected at least by two layers of insulation.
+3) It is known as double insulated equipment.
+4) Itt is marked with a double square symbol.
+5) Examples include: computers, power tools, lamps and photocopiers.
+6) Checking methods: Pat test. Tester type: Pat tester.
+7) Minim test results:  earth N/A and Insulator 1 M ohm
